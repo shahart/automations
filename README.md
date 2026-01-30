@@ -1,0 +1,1 @@
+Backward compatability with the new location for the 'My Quiet Wave' Android App, version <= 1.25
